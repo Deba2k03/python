@@ -1,0 +1,3 @@
+('debashish', '8260770087', 'male', '1010', 'paytm', 1)('Ruturaj', '683816284', 'male', '4524', 'card', 1)
+('rahul', '56735175372', 'male', '4632517', 'trueCaller', 1)
+('rahul', '56735175372', 'male', '4632517', 'trueCaller', 1)

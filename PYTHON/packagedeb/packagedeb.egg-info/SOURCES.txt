@@ -1,0 +1,7 @@
+licence.txt
+setup.py
+packagedeb/__init__.py
+packagedeb.egg-info/PKG-INFO
+packagedeb.egg-info/SOURCES.txt
+packagedeb.egg-info/dependency_links.txt
+packagedeb.egg-info/top_level.txt

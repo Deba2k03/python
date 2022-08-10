@@ -1,0 +1,2 @@
+from playsound import playsound
+playsound('C:\\Users\\This_PC\\Music\\---- SAD HEART TOUCHING SONGS 2021❤️SAD SONG -- _ BEST SAD SONGS COLLECTION❤️_ BOLLYWOOD ROMANTIC SONGS(MP3_160K)_1.mp3//play.mp3')

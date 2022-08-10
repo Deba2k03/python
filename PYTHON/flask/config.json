@@ -1,0 +1,19 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri": "mysql://root:@localhost/infinitycoding",
+        "production_uri":"mysql://root:@localhost/infinitycoding",
+        "fb_url":"https://facebook.com/Thecoding",
+        "tw_url":"https://twitter.com/Thecoding",
+        "gh_url":"https://github.com/Thecoding",
+        "blog_title":"Code Infinity",
+        "blog_name":"Code Infinity",
+        "tag_line":"be a happy coder in your worlds",
+        "gmail_user": "sahudeba03@gmail.com",
+        "gmail_password":"Dgs32124",
+        "about_text":"hi my name is Debashish sahu , i am from Bargarh",
+        "no_post":2
+
+    }
+}
